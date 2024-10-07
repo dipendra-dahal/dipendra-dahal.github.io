@@ -22,4 +22,4 @@ Here are some of the projects I am working on:
 <!--image link -->
 
 ## Contact
-You can reach me at [myemail@example.com](mailto:t3karo02@students.oamk.fi).
+You can reach me at [t3dadi00@students.oamk.fi](mailto:t3dadi00@students.oamk.fi).
